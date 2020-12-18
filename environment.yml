@@ -3,6 +3,7 @@ channels:
 dependencies:
   - bs4
   - appmode
+  - pandas
   - pip
   - pip:
     - pychord
