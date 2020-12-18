@@ -4,6 +4,7 @@ dependencies:
   - bs4
   - appmode
   - pandas
+  - lxml
   - pip
   - pip:
     - pychord
