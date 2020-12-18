@@ -4,6 +4,5 @@ dependencies:
   - bs4
   - appmode
   - pip
-- pip:
-  # works for regular pip packages
-  - pychord
+  - pip:
+    - pychord
